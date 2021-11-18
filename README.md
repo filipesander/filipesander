@@ -1,6 +1,6 @@
-### Desenvolvedor PHP e Java.💻
-### Apaixonado por programação.❤️
-### Canal no Youtube [Dev Inteligente](https://www.youtube.com/channel/UCvFkkV7sxMk3PaoNw4_w9eA)🎬
+### Desenvolvedor Full Stack.💻
+### Apaixonado por tecnologia e programação.❤️
+
 
 
 ## Skill Atual
