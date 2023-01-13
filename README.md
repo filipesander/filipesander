@@ -12,6 +12,7 @@
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<img height= "35" src="https://img.shields.io/badge/Laravel-333?style=for-the-badge&logo=Laravel&logoColor=red">
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
