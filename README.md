@@ -21,6 +21,8 @@
 <a href="https://www.php.net/"><img height= "35" src= "https://img.shields.io/badge/PHP-7776AB?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://www.linux.org/"><img height= "35" src= "https://img.shields.io/badge/Linux-DAA520?style=for-the-badge&logo=linux&logoColor=white"></a>
 
+<img height="180em" src="https://github-readme-stats-eosin-one.vercel.app/api?username=filipesander&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 
 ### 👇🏻  You can find me here  👇🏻
 <a href="mailto:desenvolvedorfilipe@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
