@@ -1,7 +1,7 @@
 
 # Hi, my name is Filipe! 👾
 
-### I'm a Brazilian, Full Stack developer with a passion for technology and programming. I love programming, reading and learning new technologies. Currently I work at Soluti.
+### I'm a Brazilian, Full Stack developer with a passion for technology and programming. I love programming, reading and learning new technologies.
 
 
 
@@ -23,6 +23,6 @@
 
 
 ### 👇🏻  You can find me here  👇🏻
-<a href="mailto:programador@filipesander.com.br"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:desenvolvedorfilipe@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/filipe-sander-developer/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href=""><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
