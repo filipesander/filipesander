@@ -17,7 +17,7 @@
 ## Hello there 👋
 
 Welcome to my GitHub profile.  
-I’m **Filipe Sander**, a **Pleno/Sênior Full Stack developer (Backend-first)** focused on **PHP/Laravel**, **APIs**, integrations and production-grade systems. 🚀  
+I’m **Filipe Sander**, a **Sênior Full Stack developer (Backend-first)** focused on **PHP/Laravel**, **APIs**, integrations and production-grade systems. 🚀  
 **Remote-friendly**.
 
 ---
